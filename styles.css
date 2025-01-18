@@ -64,12 +64,12 @@ main {
   display: flex;
   justify-content: space-around;
   flex-wrap: wrap;
-  gap: 3rem 3rem;
+  gap: 3rem 4rem;
 }
 
 .project-title {
-  max-width: 800px;
-  max-height: 400px;
+  max-width: 600px;
+  max-height: 300px;
   overflow: hidden;
 }
 
